@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Cinema\\Reels_Movies\\Reels-Movie\\ReelsMovies\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{182822AE-7B23-48AF-B4C1-3D7E1CB01F41}|ReelsMovies\\ReelsMovies.csproj|c:\\users\\asimu\\onedrive\\documentos\\github project\\cinema\\reels_movies\\reels-movie\\reelsmovies\\reelsmovies\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182822AE-7B23-48AF-B4C1-3D7E1CB01F41}|ReelsMovies\\ReelsMovies.csproj|solutionrelative:reelsmovies\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182822AE-7B23-48AF-B4C1-3D7E1CB01F41}|ReelsMovies\\ReelsMovies.csproj|c:\\users\\asimu\\onedrive\\documentos\\github project\\cinema\\reels_movies\\reels-movie\\reelsmovies\\reelsmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182822AE-7B23-48AF-B4C1-3D7E1CB01F41}|ReelsMovies\\ReelsMovies.csproj|solutionrelative:reelsmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182822AE-7B23-48AF-B4C1-3D7E1CB01F41}|ReelsMovies\\ReelsMovies.csproj|c:\\users\\asimu\\onedrive\\documentos\\github project\\cinema\\reels_movies\\reels-movie\\reelsmovies\\reelsmovies\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{182822AE-7B23-48AF-B4C1-3D7E1CB01F41}|ReelsMovies\\ReelsMovies.csproj|solutionrelative:reelsmovies\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182822AE-7B23-48AF-B4C1-3D7E1CB01F41}|ReelsMovies\\ReelsMovies.csproj|c:\\users\\asimu\\onedrive\\documentos\\github project\\cinema\\reels_movies\\reels-movie\\reelsmovies\\reelsmovies\\reelsmovies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{182822AE-7B23-48AF-B4C1-3D7E1CB01F41}|ReelsMovies\\ReelsMovies.csproj|solutionrelative:reelsmovies\\reelsmovies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Cinema\\Reels_Movies\\Reels-Movie\\ReelsMovies\\ReelsMovies\\Program.cs",
+              "RelativeDocumentMoniker": "ReelsMovies\\Program.cs",
+              "ToolTip": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Cinema\\Reels_Movies\\Reels-Movie\\ReelsMovies\\ReelsMovies\\Program.cs",
+              "RelativeToolTip": "ReelsMovies\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:14:49.025Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Cinema\\Reels_Movies\\Reels-Movie\\ReelsMovies\\ReelsMovies\\appsettings.json",
+              "RelativeDocumentMoniker": "ReelsMovies\\appsettings.json",
+              "ToolTip": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Cinema\\Reels_Movies\\Reels-Movie\\ReelsMovies\\ReelsMovies\\appsettings.json",
+              "RelativeToolTip": "ReelsMovies\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T18:12:55.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Cinema\\Reels_Movies\\Reels-Movie\\ReelsMovies\\ReelsMovies\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ReelsMovies\\Data\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Cinema\\Reels_Movies\\Reels-Movie\\ReelsMovies\\ReelsMovies\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "ReelsMovies\\Data\\AplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:10:47.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReelsMovies",
+              "DocumentMoniker": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Cinema\\Reels_Movies\\Reels-Movie\\ReelsMovies\\ReelsMovies\\ReelsMovies.csproj",
+              "RelativeDocumentMoniker": "ReelsMovies\\ReelsMovies.csproj",
+              "ToolTip": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Cinema\\Reels_Movies\\Reels-Movie\\ReelsMovies\\ReelsMovies\\ReelsMovies.csproj",
+              "RelativeToolTip": "ReelsMovies\\ReelsMovies.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T18:09:14.479Z",
+              "EditorCaption": ""
             }
           ]
         }
